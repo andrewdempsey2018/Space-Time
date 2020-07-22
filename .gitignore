@@ -1,0 +1,6 @@
+*.dll
+*.bat
+*.lnk
+*.exe
+include/
+lib/
